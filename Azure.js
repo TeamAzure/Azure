@@ -150,4 +150,4 @@ exports.voice_connection = function() {
   return voice_connection;
 }
 
-bot.login("Nzc3OTA2MTgzMjM1MDQzMzU5.X7KPlg.iysPVRCTiRoq3ScT_T7HLqY7R2Y");
+bot.login("YOUR BOTE CODE HERE");
